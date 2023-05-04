@@ -1,9 +1,9 @@
-# Name:
-# OSU Email:
+# Name: Justin Millet
+# OSU Email: milletj@oregonstate.edu
 # Course: CS261 - Data Structures
-# Assignment:
-# Due Date:
-# Description:
+# Assignment: 2
+# Due Date: 5/1/2023
+# Description: Bags
 
 
 from dynamic_array import *

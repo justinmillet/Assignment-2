@@ -3,7 +3,7 @@
 # Course: CS261 - Data Structures
 # Assignment: Dynamic array and ADT implementation
 # Due Date: 5/1/2023
-# Description:
+# Description: Dynamic arrays and implementation
 
 
 from static_array import StaticArray
